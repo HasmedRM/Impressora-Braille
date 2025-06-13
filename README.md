@@ -35,13 +35,15 @@ O alto custo das impressoras Braille comerciais dificulta o acesso à comunicaç
 
 ## Fluxograma
 
-<ins>*Veja o fluxograma completo no PDF ou no vídeo explicativo.*</ins>
+<ins>![Fluxograma](Imagens/Fluxograma.jpeg)</ins>
 
 ## Esquemático
 
 A montagem completa do circuito pode ser visualizada e testada no Wokwi:
 
  [Simulação e esquemático no Wokwi](https://wokwi.com/projects/422462944257278977)
+ 
+ <ins>![Esquematico](Imagens/Esquematico.jpeg)</ins>
 
 ## Código
 
